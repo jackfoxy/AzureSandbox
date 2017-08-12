@@ -1,0 +1,25 @@
+type project
+title
+    AzureSandbox
+owners
+    Jack Fox
+authors 
+    Jack Fox
+projectUrl
+    https://github.com/jackfoxy/AzureSandbox
+iconUrl
+    https://raw.githubusercontent.com/jackfoxy/AzureSandbox/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/jackfoxy/AzureSandbox/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp
+summary
+    AzureSandbox
+description
+    AzureSandbox
+
+
